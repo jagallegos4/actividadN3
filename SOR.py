@@ -24,4 +24,4 @@ def sor(A,b,x,n=100,w=1.1):
 
 x=sor(A,b,x)
 
-print("Solucion del sistema con el metodo Gauss-Seidel:",x)
+print("Solucion del sistema con el metodo SOR:",x)
